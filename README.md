@@ -1,6 +1,8 @@
 # deming
 Fit a generalized Deming regression Use deming With (In) R Software
 
+https://www.youtube.com/watch?v=6t35CsNFdHo
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
